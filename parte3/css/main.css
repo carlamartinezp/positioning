@@ -1,0 +1,33 @@
+body{
+	margin: 0px;
+	padding:0px;
+}
+
+
+
+.cuadrado1{
+	width:200px;
+	height: 200px;
+	position: relative;
+	left:0px;
+	background-color:#ee3e64;
+	
+	
+}
+.cuadrado2{
+	width:200px;
+	height: 200px;
+	position: relative;
+	left:200px; 
+	background-color:#44accf;
+	
+}
+.cuadrado3{
+	width:200px;
+	height: 200px;
+	position:relative;
+	top:0px;
+	background-color:#b7d84b;
+	
+	
+}
